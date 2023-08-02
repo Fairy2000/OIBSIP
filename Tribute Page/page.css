@@ -1,0 +1,63 @@
+html
+{
+   
+    padding: 70px;
+    background-color: black;
+}
+h1
+{
+   
+  font-size: 50px;
+  text-align: center;
+  color: navy;
+  text-decoration-line: underline;
+  font-weight: bold;
+}
+h1:hover
+{
+    transform: scale(0.9);
+    color: rgb(224, 228, 10);
+}
+h2
+{
+    text-decoration-line: underline;
+    font-size: 25px;
+    text-align:justify ;
+    color: rgb(14, 2, 83);
+    font-weight:bolder;
+}
+img
+{
+    border-radius: 20px;
+    display: block;
+    width: 50%;
+    margin: auto;
+    max-width: 50%;
+    max-height: 150%;
+}
+p
+{
+    background-color: rgb(14, 142, 201);
+    text-align: justify;
+    color: white;
+    font-family: Arial ;
+    font-weight: bold;
+    font-size: 15px;
+}
+body
+{
+    background-color: rgb(14, 142, 201);
+    border-width: 50px;
+    border: solid orange;
+    border-style: groove;
+    padding: 50px;
+}
+.secimg
+{
+    
+    
+    border-radius: 20px;
+    width: 100%;
+    margin: auto;
+    
+}
