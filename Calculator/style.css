@@ -1,0 +1,49 @@
+.container
+{
+    text-align: center;
+    margin-top: 55px;
+}
+table
+{
+    margin: auto;
+    border-radius: 5px;
+}
+input
+{
+    
+    height: 70px;
+    padding: 2px;
+    border-radius: 10px;
+    border: 6px solid darkblue;
+    font-size: 35px;
+}
+button
+{
+    cursor: pointer;
+    border-radius: 15px;
+    font-size: 30px;
+    background: fuchsia;
+    width: 100px;
+    height: 70px;
+} 
+button:hover 
+{   
+    transform : scale(0.9);
+}
+.calculator
+{   
+    border-radius: 20px;
+    padding: 15px;
+    background-color: palegreen;
+    display: inline-block;
+}
+html
+{
+    background-color: yellow;
+}
+h1
+{
+    color: rgb(226, 11, 101);
+    font-family:'Times New Roman';
+    font-size: 50px;
+}
